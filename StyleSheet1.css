@@ -1,0 +1,59 @@
+﻿body
+{
+}
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.one {
+    border: 5px;
+    width: 368px;
+    padding: 20px;
+    color: #ffffff;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 82px;
+    background-color: hsl(20, 62%, 77%);
+    box-shadow: 10px 10px 15px hsl(20, 0%, 85%);
+}
+
+div.oneover {
+    border: 5px;
+    width: 394px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: hsl(20, 78, 85);
+}
+
+    div.border {
+        position: relative;
+        border-bottom: 5px solid hsl(20, 0%, 95%);
+        width: 408px;
+        right: 20px;
+    }
+
+p {
+    font-size: 16px;
+    font-family: Arial, Verdana;
+    line-height: 1.5;
+}
+
+#signature {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-family: Arial, Verdana;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
